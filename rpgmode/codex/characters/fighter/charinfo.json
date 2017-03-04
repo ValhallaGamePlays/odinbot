@@ -1,0 +1,17 @@
+{
+	"characterName": "Fighter",
+	"cheat": false,
+	"characterBio": "It's the Fighter from Hexen, not much else to say",
+	"characterStatBoost": {
+		"vitality": 4,
+		"strength": 8,
+		"dexterity": 3,
+		"intimidate": 8,
+		"awareness": 3,
+		"wisdom": 2,
+		"empathy": 3,
+		"precision": 5
+	},
+	"startingItems": ["tea", "tea", "tea"],
+	"damageMultiplier": 1.15
+}

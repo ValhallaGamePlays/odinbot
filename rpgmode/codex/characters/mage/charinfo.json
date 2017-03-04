@@ -1,0 +1,17 @@
+{
+	"characterName": "Mage",
+	"cheat": false,
+	"characterBio": "It's the Mage from Hexen, not much else to say",
+	"characterStatBoost": {
+		"vitality": 6,
+		"strength": 2,
+		"dexterity": 4,
+		"intimidate": 3,
+		"awareness": 6,
+		"wisdom": 8,
+		"empathy": 8,
+		"precision": 5
+	},
+	"startingItems": ["frostshards", "tea", "tea", "tea"],
+	"damageMultiplier": 1.0
+}

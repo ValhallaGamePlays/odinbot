@@ -1,0 +1,17 @@
+{
+	"characterName": "Nazi",
+	"cheat": false,
+	"characterBio": "The greatest of Hitler's loyal followers",
+	"characterStatBoost": {
+		"vitality": 4,
+		"strength": 2,
+		"dexterity": 4,
+		"intimidate": 6,
+		"awareness": 6,
+		"wisdom": 5,
+		"empathy": 1,
+		"precision": 9
+	},
+	"startingItems": ["mp40", "tea", "tea", "tea"],
+	"damageMultiplier": 1.0
+}

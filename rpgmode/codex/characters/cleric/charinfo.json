@@ -1,0 +1,17 @@
+{
+	"characterName": "Cleric",
+	"cheat": false,
+	"characterBio": "It's the Cleric from Hexen, not much else to say",
+	"characterStatBoost": {
+		"vitality": 5,
+		"strength": 3,
+		"dexterity": 8,
+		"intimidate": 3,
+		"awareness": 5,
+		"wisdom": 5,
+		"empathy": 3,
+		"precision": 8
+	},
+	"startingItems": ["serpentstaff", "tea", "tea", "tea"],
+	"damageMultiplier": 1.0
+}

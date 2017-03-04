@@ -1,0 +1,17 @@
+{
+	"characterName": "Wep Specialist",
+	"cheat": false,
+	"characterBio": "Someone who's really good with firearms",
+	"characterStatBoost": {
+		"vitality": 6,
+		"strength": 6,
+		"dexterity": 5,
+		"intimidate": 4,
+		"awareness": 6,
+		"wisdom": 2,
+		"empathy": 4,
+		"precision": 9
+	},
+	"startingItems": ["starterpistol", "tea", "tea", "tea"],
+	"damageMultiplier": 1.0
+}

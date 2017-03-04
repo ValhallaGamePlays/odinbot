@@ -1,0 +1,17 @@
+{
+	"characterName": "Dark Bishop",
+	"cheat": false,
+	"characterBio": "The darkest of the magical forces.",
+	"characterStatBoost": {
+		"vitality": 8,
+		"strength": 2,
+		"dexterity": 5,
+		"intimidate": 8,
+		"awareness": 6,
+		"wisdom": 9,
+		"empathy": 1,
+		"precision": 5
+	},
+	"startingItems": ["tea", "tea", "tea"],
+	"damageMultiplier": 1.0
+}

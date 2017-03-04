@@ -1,0 +1,34 @@
+{
+	"stats": {
+		"experience": 0,
+		"experienceGoal": 100,
+		"skillPoints": 0,
+		"level": 0,
+		"vitality": 0,
+		"strength": 0,
+		"dexterity": 0,
+		"intimidate": 0,
+		"awareness": 0,
+		"wisdom": 0,
+		"empathy": 0,
+		"precision": 0,
+		"maxHealth": 0,
+		"health": 100,
+		"gold": 0
+	},
+	
+	"inventory": [
+			{"item": "","rarity":0,"prefixes":[],"suffixes":[]},
+			{"item": "tea","rarity":0,"prefixes":[],"suffixes":[]},
+			{"item": "tea","rarity":0,"prefixes":[],"suffixes":[]}
+	],
+	
+	"information": {
+		"displayname": "",
+		"username": "",
+		"description": "I am a peasant.",
+		"character": "",
+		"party": "",
+		"partyInvites": []
+	}
+}
